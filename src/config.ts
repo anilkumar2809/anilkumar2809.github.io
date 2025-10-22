@@ -3,7 +3,7 @@ export const siteConfig = {
   title: "Software Engineer II",
   description:
     "Software Engineer with 4+ years of experience building and scaling backend systems using Go, Python, Java, and PostgreSQL. Proven success in optimizing SD-WAN management systems, automating deployments, and modernizing legacy applications. Skilled in designing high-performance APIs, implementing CI/CD pipelines, and improving infrastructure reliability across distributed systems.",
-  resumeUrl: "https://anilkumar2809.github.io/assets/resume.pdf",
+  resumeUrl: "https://anilkumar2809.github.io/assets/AnilKumarYalla_Resume.pdf",
   // resumeUrl: "https://github.com/anilkumar2809/anilkumar2809.github.io/raw/main/assets/AnilKumarYalla_Resume.pdf",
   accentColor: "#1d4ed8",
   social: {
