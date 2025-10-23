@@ -159,10 +159,13 @@ const hasEducation = siteConfig.education && siteConfig.education.length > 0;
             )
           }
         </nav>
-        <p class="text-sm text-gray-500">
-          © {new Date().getFullYear()}
-          {siteConfig.name}. All rights reserved.
-        </p>
+        <footer class="text-center text-sm text-gray-500 py-4">
+          © {new Date().getFullYear()}{siteConfig.name}. 
+          • Powered by 
+          <a href="https://github.com/RyanFitzgerald/devportfolio" target="_blank" rel="noopener noreferrer" class="underline hover:text-gray-700">
+            DevPortfolio (Astro)
+          </a>.
+        </footer>
       </div>
     </div>
   </div>
