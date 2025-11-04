@@ -34,7 +34,7 @@ export const siteConfig = {
 
 projects: [
   {
-    name: "Legacy Module Modernization",
+    name: "SD-WAN Management Modernization (Perl to Go)",
     description:
       "Migrated legacy Perl-based SD-WAN management modules to Golang (Gin) using Strangler Fig pattern. Boosted API performance 5×, enabled containerization, and ensured backward compatibility following REST standards.",
     skills: ["Go", "Gin", "REST API", "Containerization", "Perl"],
